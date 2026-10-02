@@ -207,7 +207,7 @@ My personal portfolio with skills, education, projects and a contact form. I upd
 <p align="center"><b>Learning, building, and committing consistently.</b></p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkrishnan007&bg_color=0F1115&color=C9CED6&line=D62839&point=FFFFFF&area=true&area_color=D62839&hide_border=true&custom_title=Contribution%20graph" alt="Contribution activity graph for rahulkrishnan007" width="100%">
+<img src="contributions.svg" width="100%" alt="Contribution graph for rahulkrishnan007: 42 contributions in the last year, 9 active days, longest streak 2 days.">
 </p>
 
 <img src="divider.svg" width="100%" alt="">

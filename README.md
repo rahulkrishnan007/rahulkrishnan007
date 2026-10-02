@@ -19,7 +19,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 <h2 align="center">About me</h2>
 
@@ -44,17 +44,17 @@ I'm interested in software and IT, and I build projects to turn what I learn int
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 <h2 align="center">Currently learning</h2>
 
 <p align="center">
-<img src="assets/roadmap.svg" width="720" alt="Roadmap of technologies I am currently learning and practicing: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React, Node.js, Express.js, MongoDB.">
+<img src="roadmap.svg" width="720" alt="Roadmap of technologies I am currently learning and practicing: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React, Node.js, Express.js, MongoDB.">
 </p>
 
 <p align="center"><sub>HTML → CSS → JavaScript → Bootstrap → Tailwind CSS → React → Node.js → Express.js → MongoDB</sub></p>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 <h2 align="center">Tech stack</h2>
 
@@ -96,15 +96,15 @@ I'm interested in software and IT, and I build projects to turn what I learn int
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 <h2 align="center">Learning journey</h2>
 
 <p align="center">
-<img src="assets/journey.svg" width="640" alt="Learning journey: Diploma in Computer Hardware Engineering, Computer Hardware and Networking, Python and MySQL, Web Development, HTML and CSS, JavaScript, Bootstrap and Tailwind CSS, then MERN Stack Development (now).">
+<img src="journey.svg" width="640" alt="Learning journey: Diploma in Computer Hardware Engineering, Computer Hardware and Networking, Python and MySQL, Web Development, HTML and CSS, JavaScript, Bootstrap and Tailwind CSS, then MERN Stack Development (now).">
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 <h2 align="center">Projects</h2>
 
@@ -165,7 +165,7 @@ My personal portfolio with skills, education, projects and a contact form. I upd
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 <h2 align="center">Skills</h2>
 
@@ -183,7 +183,7 @@ My personal portfolio with skills, education, projects and a contact form. I upd
 <tr><td><b>Problem solving</b></td><td><img src="https://img.shields.io/badge/Practicing-8E1B2B?style=flat-square" alt="Practicing"></td><td>Breaking problems into parts, testing each one, keeping solutions simple</td></tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 <h2 align="center">GitHub statistics</h2>
 
@@ -210,7 +210,7 @@ My personal portfolio with skills, education, projects and a contact form. I upd
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkrishnan007&bg_color=0F1115&color=C9CED6&line=D62839&point=FFFFFF&area=true&area_color=D62839&hide_border=true&custom_title=Contribution%20graph" alt="Contribution activity graph for rahulkrishnan007" width="100%">
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 <h2 align="center">Connect with me</h2>
 
@@ -221,4 +221,4 @@ My personal portfolio with skills, education, projects and a contact form. I upd
 <a href="https://portfolio-seven-navy-50.vercel.app"><img src="https://img.shields.io/badge/Portfolio-D62839?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
-<img src="assets/footer.svg" width="100%" alt="Learn, Build, Improve, Repeat. Thanks for visiting my GitHub profile!">
+<img src="footer.svg" width="100%" alt="Learn, Build, Improve, Repeat. Thanks for visiting my GitHub profile!">
